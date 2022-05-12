@@ -19,7 +19,7 @@
 ## Pictures
 
 > - 3D printed case using glitter grey ecoPLA
->   - 18% lin infill
+>   - 18% line infill
 >   - 4 top & bottom layers
 > - Choc Purpz switches tape modded & lubed
 > - Black MBK Choc keycaps
