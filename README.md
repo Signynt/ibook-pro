@@ -23,3 +23,5 @@
 >   - 4 top & bottom layers
 > - Choc Purpz switches tape modded & lubed
 > - Black MBK Choc keycaps
+
+![IMG_20220517_134843__01](https://user-images.githubusercontent.com/67801159/198332884-76de665e-ce99-430a-ae2c-809e80bbd8c2.jpg)
